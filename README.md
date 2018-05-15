@@ -26,15 +26,8 @@ The workflow is not limited to the diagram shown above only but it can be expand
 
 
 ## Prerequisites
-You will need the following accounts and tools:
-* [IBM Cloud account](https://console.ng.bluemix.net/registration/)
-* [Bluemix CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/index.html#getting-started)
-* [Openwhisk CLI](https://github.com/apache/incubator-openwhisk-cli/releases)
-* [nodejs](https://nodejs.org/en/download/)
-To verify you have nodejs installed run `node -v` at a command prompt/terminal.
-* Optional: [Git](https://git-scm.com/downloads)
-If you choose to use Git to download the code samples you must also have a [GitHub.com account](https://github.com). You can also download the code as a compressed file without a GitHub.com account.
 
+Execute the steps given ![here](Technical-Prerequisites.md)
 
 ## Steps - IMPORTANT - Read Slow
 
