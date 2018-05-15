@@ -1,8 +1,6 @@
 **__Skill Level__**: Any Skill Level
 <br>**__N.B__**: All services used in this repo are Lite plans.
 
-![architecture-diagram](images-docs/iot-alert-arch.png)
-
 # [Upload and process an image into IBM Cloud to receive alerts](https://developer.ibm.com/code/patterns/analyze-an-image-and-send-a-status-alert/)
 Build an IoT project with IBM Cloud Functions (serverless), Node-RED, Node.js and along with IoT Platform.
 
@@ -29,7 +27,11 @@ The workflow is not limited to the diagram shown above only but it can be expand
 
 Execute the steps given ![here](Technical-Prerequisites.md)
 
+
 ## Steps - IMPORTANT - Read Slow
+
+![architecture-diagram](images-docs/iot-alert-arch.png)
+
 
 ### As the diagram above in the picture presents six steps. Create all the bullet points mentioned and save their credentials on a spreadsheet. Make sure you start from here with the followings:
 
