@@ -1,5 +1,3 @@
-Technical Pre-requisites
-
 1. IBM Cloud account
 
   Sign up for a free IBM Cloud account - http://bluemix.net/
