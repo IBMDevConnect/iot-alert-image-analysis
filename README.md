@@ -36,12 +36,6 @@ To verify you have nodejs installed run `node -v` at a command prompt/terminal.
 If you choose to use Git to download the code samples you must also have a [GitHub.com account](https://github.com). You can also download the code as a compressed file without a GitHub.com account.
 
 
-## Deploy to IBM Cloud
-In this tutorial, you will require to setup each folder as a separate applications on IBM Cloud.
-
-> There will be manual setups from the terminal, running command lines. Because credentials are needed in files.
-
-
 ## Steps - IMPORTANT - Read Slow
 
 ### As the diagram above in the picture presents six steps. Create all the bullet points mentioned and save their credentials on a spreadsheet. Make sure you start from here with the followings:
